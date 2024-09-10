@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8D22D-D519-4D5F-A07D-92D45D0B9700}|reviewapp\\reviewapp.csproj|c:\\users\\oluwaseun o\\source\\repos\\reviewapp\\reviewapp\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8D22D-D519-4D5F-A07D-92D45D0B9700}|reviewapp\\reviewapp.csproj|solutionrelative:reviewapp\\controllers\\reviewercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8D22D-D519-4D5F-A07D-92D45D0B9700}|reviewapp\\reviewapp.csproj|c:\\users\\oluwaseun o\\source\\repos\\reviewapp\\reviewapp\\repository\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8D22D-D519-4D5F-A07D-92D45D0B9700}|reviewapp\\reviewapp.csproj|solutionrelative:reviewapp\\repository\\reviewerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8D22D-D519-4D5F-A07D-92D45D0B9700}|reviewapp\\reviewapp.csproj|c:\\users\\oluwaseun o\\source\\repos\\reviewapp\\reviewapp\\interfaces\\ireviewerrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8D22D-D519-4D5F-A07D-92D45D0B9700}|reviewapp\\reviewapp.csproj|solutionrelative:reviewapp\\interfaces\\ireviewerrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewerController.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\reviewapp\\Controllers\\ReviewerController.cs",
+              "RelativeDocumentMoniker": "reviewapp\\Controllers\\ReviewerController.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\reviewapp\\Controllers\\ReviewerController.cs",
+              "RelativeToolTip": "reviewapp\\Controllers\\ReviewerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:00:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\reviewapp\\Repository\\ReviewerRepository.cs",
+              "RelativeDocumentMoniker": "reviewapp\\Repository\\ReviewerRepository.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\reviewapp\\Repository\\ReviewerRepository.cs",
+              "RelativeToolTip": "reviewapp\\Repository\\ReviewerRepository.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAzwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:19:10.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReviewerRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\reviewapp\\Interfaces\\IReviewerRepositoy.cs",
+              "RelativeDocumentMoniker": "reviewapp\\Interfaces\\IReviewerRepositoy.cs",
+              "ToolTip": "C:\\Users\\Oluwaseun O\\source\\repos\\reviewapp\\reviewapp\\Interfaces\\IReviewerRepositoy.cs",
+              "RelativeToolTip": "reviewapp\\Interfaces\\IReviewerRepositoy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:18:34.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
